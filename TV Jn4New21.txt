@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1, STAR COMEDY
+http://kstv.xyz:8080/Najera/1234/46613
+
+#EXTM3U
+#EXTINF:-1, STAR SERIES
+http://kstv.xyz:8080/Najera/1234/46618
+
+#EXTM3U
+#EXTINF:-1, GOLDEN PLUS
+http://kstv.xyz:8080/Najera/1234/46626
+
+#EXTM3U
+#EXTINF:-1, GOLDEN PREMIER
+http://kstv.xyz:8080/Najera/1234/46627
+
+#EXTM3U
+#EXTINF:-1, CINECANAL
+http://kstv.xyz:8080/Najera/1234/46538
+
+#EXTM3U
+#EXTINF:-1, DE PELICULA
+http://kstv.xyz:8080/Najera/1234/46576
+
+#EXTM3U
+#EXTINF:-1, DE PELICULA PLUS
+http://kstv.xyz:8080/Najera/1234/46577
+
+#EXTM3U
+#EXTINF:-1, FX
+http://kstv.xyz:8080/Najera/1234/46619
+
+#EXTM3U
+#EXTINF:-1, PARAMOUNT CHANNEL
+http://kstv.xyz:8080/Najera/1234/46653
+
+#EXTM3U
+#EXTINF:-1, SPACE
+http://kstv.xyz:8080/Najera/1234/46661
+
+#EXTM3U
+#EXTINF:-1, TBS
+http://kstv.xyz:8080/Najera/1234/46677
+
+#EXTM3U
+#EXTINF:-1, TCM
+http://kstv.xyz:8080/Najera/1234/46679
+
+#EXTM3U
+#EXTINF:-1, TNT SERIES
+http://kstv.xyz:8080/Najera/1234/46682
+
+#EXTM3U
+#EXTINF:-1, UNIVESAL CHANNEL 
+http://kstv.xyz:8080/Najera/1234/46690
+
+#EXTM3U
+#EXTINF:-1, WARNER CHANNEL 
+http://kstv.xyz:8080/Najera/1234/46691
+
+#EXTM3U
+#EXTINF:-1, BABY TV
+http://kstv.xyz:8080/Najera/1234/46911
+
+#EXTM3U
+#EXTINF:-1, BOOMERANG
+http://kstv.xyz:8080/Najera/1234/46913
+
+#EXTM3U
+#EXTINF:-1, CARTOON NETWORK
+http://kstv.xyz:8080/Najera/1234/46914
+
+#EXTM3U
+#EXTINF:-1, DISCOVERY KIDS
+http://kstv.xyz:8080/Najera/1234/46915
+
+#EXTM3U
+#EXTINF:-1, DISNEY CHANNEL
+http://kstv.xyz:8080/Najera/1234/46916
+
+#EXTM3U
+#EXTINF:-1, DISNEY JUNIOR
+http://kstv.xyz:8080/Najera/1234/46917
+
+#EXTM3U
+#EXTINF:-1, DISNEY XD
+http://kstv.xyz:8080/Najera/1234/46919
+
+#EXTM3U
+#EXTINF:-1, NAT GEO KID
+http://kstv.xyz:8080/Najera/1234/46921
+
+#EXTM3U
+#EXTINF:-1, NICK
+http://kstv.xyz:8080/Najera/1234/46923
+
+#EXTM3U
+#EXTINF:-1, NICK JR.
+http://kstv.xyz:8080/Najera/1234/46925
+
+#EXTM3U
+#EXTINF:-1, NICKELODEON
+http://kstv.xyz:8080/Najera/1234/46926
+
+#EXTM3U
+#EXTINF:-1, TOONCAST
+http://kstv.xyz:8080/Najera/1234/46927
+
+#EXTM3U
+#EXTINF:-1, AZ CLICK
+http://kstv.xyz:8080/Najera/1234/46931
+
+#EXTM3U
+#EXTINF:-1, AXN
+http://kstv.xyz:8080/Najera/1234/46535
+
+#EXTM3U
+#EXTINF:-1, E!
+http://kstv.xyz:8080/Najera/1234/46593#EXTM3U
+#EXTINF:-1, GLITZ
+http://kstv.xyz:8080/Najera/1234/46623
+
+#EXTM3U
+#EXTINF:-1, HOLA TV
+http://kstv.xyz:8080/Najera/1234/46640
+
+#EXTM3U
+#EXTINF:-1, I SAT
+http://kstv.xyz:8080/Najera/1234/46641
+
+#EXTM3U
+#EXTINF:-1, MAS CHIC
+http://kstv.xyz:8080/Najera/1234/46644
+
+#EXTM3U
+#EXTINF:-1, PASIONES
+http://kstv.xyz:8080/Najera/1234/46655
+
+#EXTM3U
+#EXTINF:-1, SHOWTIME
+http://kstv.xyz:8080/Najera/1234/46658
+
+#EXTM3U
+#EXTINF:-1, SONY
+http://kstv.xyz:8080/Najera/1234/46659
+
+#EXTM3U
+#EXTINF:-1, ADN40
+http://kstv.xyz:8080/Najera/1234/46929
+
+#EXTM3U
+#EXTINF:-1, WOBI
+http://kstv.xyz:8080/Najera/1234/46692
+
+#EXTM3U
+#EXTINF:-1, CNN
+http://kstv.xyz:8080/Najera/1234/46946
+
+#EXTM3U
+#EXTINF:-1, NAT GEO
+http://kstv.xyz:8080/Najera/1234/46649
+
+#EXTM3U
+#EXTINF:-1, NAT GEO WILD
+http://kstv.xyz:8080/Najera/1234/46651
+
+#EXTM3U
+#EXTINF:-1, HISTORY 2
+http://kstv.xyz:8080/Najera/1234/46628
+
+#EXTM3U
+#EXTINF:-1, DISCOVERY ID
+http://kstv.xyz:8080/Najera/1234/46584
+
+#EXTM3U
+#EXTINF:-1, DISCOVERY THEATER
+http://kstv.xyz:8080/Najera/1234/46587
+
+#EXTM3U
+#EXTINF:-1, DISCOVERY TLC
+http://kstv.xyz:8080/Najera/1234/46588
+
+#EXTM3U
+#EXTINF:-1, DISCOVERY TURBO
+http://kstv.xyz:8080/Najera/1234/46589
+
+
